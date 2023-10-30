@@ -1,0 +1,1 @@
+console.log("bolsonaro é um cancer");
